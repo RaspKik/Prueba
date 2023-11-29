@@ -1,6 +1,6 @@
 # KRPano Virtual Tour Demo
 
-## [Live Demo](https://theta360developers.github.io/krpano-vtour/tour.html)
+## [Live Demo](https://github.com/RaspKik/Prueba/blob/main/tour.html)
 
 ## Screenshot
 
