@@ -1,7 +1,7 @@
-# KRPano Virtual Tour Demo
+# KRPano Virtual Tour Demo Prueba de montaje
 
-## [Live Demo](https://raspkik.github.io/Prueba/tour.html)
+## [ENTRA AL TOUR](https://raspkik.github.io/Prueba/tour.html)
 
 ## Screenshot
 
-![screenshot](doc/screenshot.png)
+![screenshot](models/screenshot.png)
