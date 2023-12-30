@@ -1,6 +1,6 @@
 # Virtual Tour Demo Prueba de montaje
 
-## [ENTRA AL TOUR](https://raspkik.github.io/Prueba/tour.html)
+## [VISITA PROMEDEX S.L.](https://raspkik.github.io/Prueba/tour.html)
 
 ##
 
