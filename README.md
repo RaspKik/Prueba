@@ -1,4 +1,4 @@
-# Virtual Tour Demo Prueba de montaje
+# Virtual Tour PROMEDEX S.L.
 
 #Empresa familiar creada en 1.989 por Dº Germán Andrés Simón. 
 
