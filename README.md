@@ -1,6 +1,6 @@
 # Virtual Tour PROMEDEX S.L.
 
-#Empresa familiar creada en 1.989 por Dº Germán Andrés Simón. 
+Empresa familiar creada en 1.989 por Dº Germán Andrés Simón. 
 
 Con sede social y almacenes en Valencia (España) siendo nuestro principal ámbito de acción la Comunidad Valenciana.
 
